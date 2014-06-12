@@ -1,0 +1,1 @@
+window.onload.document.getElementByTagName('body').style.backgroundColor="red";
