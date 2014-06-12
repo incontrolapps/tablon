@@ -1,1 +1,1 @@
-window.onload=function(){document.getElementByTagName('body').style.backgroundColor="red";}
+window.onload=function(){document.getElementsByTagName('body').style.backgroundColor="red";}
